@@ -12,3 +12,7 @@ $L$ as a function of $\phi_0$ is a polynomial of degree $2$ with a positive domi
 from problem 2.1 finding $\phi_0$ minimizing the cost function is equivalent to solve  : $$\sum_{i=1}^{I}2\times 1(\phi_0 + \phi_1\times x[i] -y[i]) =0 $$
 
 same for $\phi_1$
+
+## solution to problem 2.3
+#### generative model for linear regression :
+$$g(y,\phi) = \phi_0 + \phi_1\times y = x \Leftrightarrow g^{-1}(x,\phi) = \phi_1^{-1}(x-\phi_0) = y$$
