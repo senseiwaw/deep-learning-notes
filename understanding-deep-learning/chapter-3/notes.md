@@ -53,5 +53,11 @@ $h_3$ : active;  active; inactive
 
 ### solution to problem 3.3
 $-\frac{\theta_{10}}{\theta_{11}}$
+
 $-\frac{\theta_{20}}{\theta_{21}}$
+
 $-\frac{\theta_{30}}{\theta_{31}}$
+
+### solution to problem 3.4
+<img width="485" height="519" alt="modified-last-hidden-unit" src="https://github.com/user-attachments/assets/c5614cf3-ba10-4def-a800-95b6f795ba79" />
+
