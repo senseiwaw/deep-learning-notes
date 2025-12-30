@@ -10,9 +10,11 @@ we **fit** the data to our model with a training data set by defining a cost fun
 we look at how well the model perform on test data (**generalization**)
 
 ## hidden units
-refers to a term in calculating the output (one preliminary step in the neural network process = the caluclation input/output relationship) inside an activation function
+refers to a term in calculating the output (one preliminary step in the neural network process = the calculation input/output relationship) inside an activation function
 
-in the example these are linear functions inside a ReLu activation function
+in the example these are equal to the composition of an activation ReLu function and a linear function
+
+$$ h_1 = a(\theta_{10} +\theta_{11} \times x) $$
 ### active patterns :
 #### active
 when a hidden unit is non zero on a certain space of inputs we call it active
@@ -27,3 +29,6 @@ $$ y = f(x, **\phi**) =  \phi_0 + \phi_1\times a(\theta_{10} +\theta_{11} \times
 
 * both a complete drawing of the neural network and a simpler version of the same network
 * the elements on the arrows represent the weights. the number on one node is multiplied by the weights in the outcoming arrow; the result is added to the next node.
+* how many parameters ? $10$
+
+
