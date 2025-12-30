@@ -1,7 +1,16 @@
 # chapter 2 - supervised learning
-cost function refers to the whole sum that we minimize (there is a more general concept of objective function which means any funciton we minimize or maximize)
+#### cost function 
+refers to the whole sum that we minimize (there is a more general concept of objective function which means any funciton we minimize or maximize)
 
-loss function refers to specific indexed terms we want to minimze in the sum of the cost function.
+#### loss function
+refers to specific indexed terms we want to minimze in the sum of the cost function.
+
+### when training there are 2 risks :
+#### overfitting 
+the function approximates too much our data, performs poorly in generalizing to other data test.
+#### underfitting
+the function approximates our data but the training data contains not enough variation to make it possible to generalize.
+
 ## solution to problem 2.1
  $\displaystyle \frac{\partial L}{\partial \phi_0} = \sum_{i=1}^{I}2\times 1(\phi_0 + \phi_1\times x[i] -y[i])$
  
