@@ -1,6 +1,7 @@
 # deep-learning-notes
-*Why ? the Feynman method*
-
+*Why ?* 
+* *the Feynman method*
+* *I want do research in AI*
 # books : currently reading 
 - "Understanding Deep Learning" — Simon J.D. Prince (2023)
 
