@@ -1,11 +1,8 @@
 # Library for machine learning learners 
 *The goal of this library is to progressively add references for ml learners to help them learn the theoretical foundations of ml faster*
 
-*For that purpose for each book I'll add a personal note explaining the target audience of the book and takeaways from reading the book*
-
 *This library is specially designed for someone intested in AI research*
 
-*This library can be used to help learners understand research papers faster in order to fill in their knowledge.*
 
 *For the moment I complete the notebooks and problems from the following book!!*
 ## books : currently reading 
