@@ -1,8 +1,9 @@
-# Library for machine learning learners 
-*The goal of this library is to progressively add references for ml learners to help them learn the theoretical foundations of ml faster*
+# My Library
+*This library contains most of the notes I take and resources I use to learn ML*
+
+*I mostly use it to document my progress but it is also thought to be useful for someone looking for quality resources to understand both the theory behind ML and the implementation*
 
 *This library is specially designed for someone intested in AI research*
-
 
 *For the moment I complete the notebooks and problems from the following book!!*
 ## books : currently reading 
